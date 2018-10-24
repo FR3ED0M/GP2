@@ -1,0 +1,7 @@
+{
+  "name": "GPTech",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
